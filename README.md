@@ -63,7 +63,7 @@ docker build -t user-dts:0.0.1 .
 2. Run bằng Docker
 docker run -d -p 8080:8080 user-dts:0.0.1
 
-Docker hub
+Docker hub (docker pull mnghia02/user-dts:0.0.1)
 1. Push image
 docker push mnghia02/user-dts:0.0.1
 2. Run
